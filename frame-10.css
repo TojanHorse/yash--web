@@ -1,0 +1,207 @@
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1154px;
+  height: 697.5px;
+}
+.e-platform-for-projects1 {
+  position: absolute;
+  top: 127px;
+  left: 158px;
+  letter-spacing: 0.14em;
+  line-height: 100%;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 273px;
+  height: 10px;
+}
+.academic1 {
+  margin: 0;
+}
+.academic-assignments-made-container1,
+.experience-the-synergy1 {
+  width: 389.1px;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+}
+.experience-the-synergy1 {
+  width: 325px;
+  font-size: var(--text-size);
+  line-height: 140%;
+  color: var(--color-dimgray);
+  height: 119px;
+  flex-shrink: 0;
+}
+.academic-assignments-made-easy-parent {
+  position: absolute;
+  top: 160px;
+  left: 157.4px;
+  height: 255px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.learn-more1 {
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+}
+.learn-more-container {
+  position: absolute;
+  top: 562px;
+  left: 241px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-powderblue);
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-lg);
+  box-sizing: border-box;
+}
+.group-child1 {
+  position: absolute;
+  top: 568px;
+  left: 157.4px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 30px;
+}
+.frame-div {
+  position: absolute;
+  top: 606px;
+  left: 317.4px;
+  height: 27px;
+}
+.handyprints1 {
+  position: relative;
+  font-size: 16.4px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-family: var(--font-dela-gothic-one);
+  color: var(--color-black);
+}
+.frame-item {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 14px;
+}
+.contact1 {
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.frame-inner {
+  width: 12px;
+  position: relative;
+  height: 12px;
+}
+.career-group {
+  align-items: center;
+}
+.career-group,
+.handyprints-parent,
+.sign-up-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.handyprints-parent {
+  align-items: center;
+  gap: 24px;
+}
+.sign-up-container {
+  border-radius: var(--br-xs);
+  background-color: var(--color-teal-200);
+  align-items: flex-start;
+  padding: var(--padding-2xs) var(--padding-lg);
+  color: var(--white-background);
+}
+.frame-parent,
+.login-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.login-parent {
+  justify-content: flex-start;
+  gap: 21px;
+  color: var(--color-black);
+}
+.frame-parent {
+  position: absolute;
+  top: 31.6px;
+  left: 149px;
+  border-radius: var(--br-29xl);
+  width: 820.7px;
+  justify-content: space-between;
+  color: var(--color-dimgray);
+}
+.casual-life-3d-boy-sitting-at-icon1,
+.image-12-icon1,
+.image-6-icon1 {
+  position: absolute;
+  height: 19.21%;
+  width: 9.52%;
+  top: 39.23%;
+  right: 40.85%;
+  bottom: 41.56%;
+  left: 49.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.casual-life-3d-boy-sitting-at-icon1,
+.image-12-icon1 {
+  height: 59.35%;
+  width: 42.92%;
+  top: 18.21%;
+  right: 7.45%;
+  bottom: 22.44%;
+}
+.image-12-icon1 {
+  height: 64.16%;
+  width: 25%;
+  top: 21.58%;
+  right: 0;
+  bottom: 14.27%;
+  left: 75%;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1176.6px;
+  height: 697.5px;
+}
+.sign-in1 {
+  position: absolute;
+  top: 576px;
+  left: 167.4px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  color: var(--color-black);
+}
+.group-parent {
+  width: 100%;
+  position: relative;
+  height: 697.5px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-teal-100);
+  font-family: var(--font-montserrat);
+}

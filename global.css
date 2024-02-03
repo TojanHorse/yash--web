@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --text: Inter;
+  --font-dela-gothic-one: "Dela Gothic One";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --text-size: 16px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --white-background: #fff;
+  --color-black: #000;
+  --black-fonts-headings: #2d2e2e;
+  --color-teal-200: #2c788b;
+  --color-teal-100: #2b788b;
+  --color-dimgray: #585858;
+  --color-powderblue: #c3dde3;
+  --color-whitesmoke-100: #f6f5f4;
+
+  /* Gaps */
+  --gap-8xl: 27px;
+
+  /* Paddings */
+  --padding-2xs: 11px;
+  --padding-lg: 18px;
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-29xl: 48px;
+}

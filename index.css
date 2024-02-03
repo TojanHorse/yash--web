@@ -1,0 +1,306 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1585.9px;
+  height: 1073px;
+}
+.e-platform-for-projects {
+  position: absolute;
+  top: 220px;
+  left: 65px;
+  letter-spacing: 0.14em;
+  line-height: 100%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--color-teal-100);
+  width: 375.2px;
+  height: 15.4px;
+}
+.academic {
+  margin: 0;
+}
+.academic-assignments-made-container,
+.experience-the-synergy {
+  position: absolute;
+  left: 59px;
+  letter-spacing: -0.04em;
+  display: inline-block;
+}
+.academic-assignments-made-container {
+  top: 266px;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  color: var(--color-black);
+  width: 576px;
+  height: 160px;
+}
+.experience-the-synergy {
+  top: 426px;
+  font-size: var(--font-size-5xl);
+  line-height: 140%;
+  width: 486px;
+  height: 151px;
+}
+.learn-more {
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+}
+.learn-more-wrapper {
+  position: absolute;
+  top: 683px;
+  left: 233px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-powderblue);
+  width: 174.5px;
+  height: 55.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-lg);
+  box-sizing: border-box;
+  font-size: var(--font-size-sm);
+  color: var(--color-teal-100);
+}
+.group-item {
+  position: absolute;
+  top: 897px;
+  left: 163px;
+  width: 1px;
+  height: 71px;
+  object-fit: contain;
+}
+.group-inner {
+  position: absolute;
+  top: 915.2px;
+  left: 358.2px;
+  width: 27.4px;
+  height: 41.5px;
+}
+.handyprints {
+  position: absolute;
+  top: 57px;
+  left: 57px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-family: var(--font-dela-gothic-one);
+  color: var(--color-black);
+}
+.vector-icon {
+  top: 54px;
+  left: 188px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 14px;
+}
+.contact,
+.guide,
+.vector-icon {
+  position: absolute;
+}
+.contact {
+  top: 56px;
+  left: 262px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.guide {
+  top: 54px;
+  left: 393px;
+}
+.career,
+.guide,
+.social {
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.social {
+  position: absolute;
+  top: 54px;
+  left: 488px;
+}
+.career {
+  position: relative;
+}
+.frame-child {
+  width: 12px;
+  position: relative;
+  height: 12px;
+}
+.career-parent {
+  position: absolute;
+  top: 56px;
+  left: 582px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.login {
+  position: absolute;
+  top: 51px;
+  left: 1289px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  color: var(--color-black);
+}
+.sign-up-wrapper {
+  position: absolute;
+  top: 43px;
+  left: 1382px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-teal-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-lg);
+  font-size: var(--font-size-sm);
+  color: var(--white-background);
+}
+.casual-life-3d-boy-sitting-at-icon,
+.image-12-icon,
+.image-6-icon {
+  position: absolute;
+  height: 24.23%;
+  width: 16.14%;
+  top: 33.08%;
+  right: 43.82%;
+  bottom: 42.68%;
+  left: 40.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.casual-life-3d-boy-sitting-at-icon,
+.image-12-icon {
+  height: 62.91%;
+  width: 45.65%;
+  top: 13.7%;
+  right: 10.46%;
+  bottom: 23.39%;
+  left: 43.89%;
+}
+.image-12-icon {
+  height: 71.76%;
+  width: 34.74%;
+  top: 9.32%;
+  right: 0.12%;
+  bottom: 18.92%;
+  left: 65.14%;
+}
+.gallery {
+  position: relative;
+}
+.about-parent,
+.gallery-parent {
+  position: absolute;
+  top: calc(50% + 342.5px);
+  left: calc(50% - 518.95px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+  font-size: var(--text-size);
+  color: var(--black-fonts-headings);
+  font-family: var(--text);
+}
+.about-parent {
+  left: calc(50% - 615.95px);
+}
+.lilac-cat-pet-shops-logo-1-r-icon {
+  position: absolute;
+  top: 879px;
+  left: 17px;
+  width: 175px;
+  height: 121px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.group-icon {
+  position: absolute;
+  top: 862px;
+  left: 1003px;
+  width: 24px;
+  height: 24px;
+}
+.yashmengwal1gmailcom {
+  position: absolute;
+  top: 1px;
+  left: 40px;
+  display: inline-block;
+  width: 264px;
+}
+.icon-pack {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.yashmengwal1gmailcom-parent {
+  top: 913px;
+  left: 1003px;
+  width: 304px;
+  height: 24px;
+}
+.dehradun,
+.parent,
+.yashmengwal1gmailcom-parent {
+  position: absolute;
+  font-size: var(--text-size);
+  font-family: var(--text);
+  color: var(--black-fonts-headings);
+}
+.parent {
+  top: 964px;
+  left: 1003px;
+  width: 304px;
+  height: 24px;
+}
+.dehradun {
+  top: 866px;
+  left: 1045px;
+  display: inline-block;
+  width: 264px;
+}
+.rectangle-parent,
+.sign-in {
+  position: absolute;
+  top: 0;
+  left: -32px;
+  width: 1585.9px;
+  height: 1073px;
+}
+.sign-in {
+  top: 701px;
+  left: 67px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  color: var(--color-black);
+  width: 178px;
+  height: 20px;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--white-background);
+  height: 1032px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-montserrat);
+}
